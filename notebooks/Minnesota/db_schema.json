@@ -1,0 +1,22 @@
+{
+    "state": string,
+    "md5": string,
+    "text": string, # document text
+    "html": string,
+    "url": string,
+    "date": string, # YYYY-MM-DD
+    "session": string,
+    "topic": string,
+    "bill_name": string,
+    "chamber": string,
+    "organizations": [
+        {
+            "name": string, # organization name, e.g. "ACLU"
+            "start_char": int, # starting character offset of organization name in document text
+            "end_char": int,
+            "position": string # organization stance, if applicable
+        }
+    ]
+}
+{}
+

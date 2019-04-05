@@ -1,0 +1,7 @@
+.tmp.driverdownload/*
+.ipynb_checkpoints/*.ipynb
+__pycache__/*
+.DS_Store
+*.pyc
+**/Icon*
+**/.vscode/*
