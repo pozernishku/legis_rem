@@ -1,0 +1,11 @@
+/Users/zackushka/Documents/legis/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/zackushka/Documents/legis/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/zackushka/Documents/legis/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/zackushka/Documents/legis/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/zackushka/Documents/legis/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/zackushka/Documents/legis/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/zackushka/Documents/legis/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/zackushka/Documents/legis/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/zackushka/Documents/legis/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/zackushka/Documents/legis/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/zackushka/Documents/legis/myApp/obj/Debug/netcoreapp2.2/myApp.pdb
